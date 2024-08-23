@@ -1,4 +1,5 @@
 # Stock Insights Dashboard
+![](https://github.com/Dabby-Tabby/StockApp/blob/master/Demo.gif)
 
 The Stock Insights Dashboard is an interactive web application that provides real-time stock market data and analytics. Users can select from a comprehensive list of ticker symbols to view detailed historical price charts and compare multiple stocks over various timeframes. The app leverages the yfinance library to fetch stock data, while Plotly visualizations enable users to explore price movements dynamically.
 
